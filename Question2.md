@@ -5,7 +5,7 @@ With this information we could obtain an indication of the predominant area of h
 
 Column | Data Type | Description
 -------|------------|----------
-ID | integer | create a ID for each observation
+ID | integer | create a ID for each observation (primary key with autoincrement)
 species | char | describe the specie analyzed
 countryCode | char | the country of the observation
 stateProvince | char | the state or province of the observation
